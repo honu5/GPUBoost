@@ -19,7 +19,7 @@ license: Apache-2.0
 metadata:
   author: NVIDIA Corporation
   version: "1.0"
-  tags:
+  tags: t
     - onnx
     - import
     - huggingface
