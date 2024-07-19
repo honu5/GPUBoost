@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
 
-jobs: b
+jobs: 
 
   build-ubuntu2004:
 
