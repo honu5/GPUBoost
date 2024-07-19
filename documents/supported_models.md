@@ -8,6 +8,8 @@ TensorRT is a general-purpose neural-network graph execution engine, not a model
 
 The table below is **not** an exhaustive support list. It is the subset of models NVIDIA has verified and benchmarked; we publish it so you know which configurations have a known-good baseline and where the current rough edges are. If your model is not listed, the expectation is still that it works — please file an issue if it does not.
 
+The table below is **not** an exhaustive support list. It is the subset of models NVIDIA has verified and benchmarked; we publish it so you know which configurations have a known-good baseline and where the current rough edges are. If your model is not listed, the expectation is still that it works — please file an issue if it does not.
+
 ### Reading the Tables
 
 - **Dtype** lists the precision used for the verified baseline. Other precisions may also work.
