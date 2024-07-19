@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-
+#hello world
 # This file handles logic relating to building "fat" static libraries, that is, ones which contain other static libraries.
 # Idiomatically, CMake would prefer we ship all static libraries as part of our release and ship a file which specifies the linkages.
 # However, for various reasons, this is both inadvisable and annoying. Instead, we would prefer to ship one static library containing all dependencies.
