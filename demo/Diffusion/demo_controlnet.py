@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+# limitations under the License.
 # Configure dependencies before any external imports
 from demo_diffusion import deps
 deps.configure("sd")
