@@ -10,7 +10,7 @@ The TensorRT C++ Coding Guidelines are derived from several sources, primarily:
 ------
 
 #### Namespaces
-
+##bb
 1. *MISRA C++: 2008 Rule 7-3-1*
    Global namespace shall only contain main, namespace declarations and extern "C" declarations. Use explicit or anon namespaces for everything else.
 2. Closing braces of namespaces should have a comment saying the namespace it closes:
